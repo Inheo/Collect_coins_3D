@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 4048030035
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97e009d9b6a333ad050c2e5d1657b67d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bf83a3ef04747c6a073895d13c39b7e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f875fb00a1009e409f653946b65c54b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58b64dd0c1889bb469e783e85159524c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a67d14e440fbb694faad63019917b2e5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprites/JoystickBG.png
+- Assets/Sprites/ButtonBG.png
+- Assets/Sprites/JoystickFG.png
+- Assets/Prefabs/Hero.prefab
+- Assets/Prefabs/Coin.prefab
+Dependencies: []
